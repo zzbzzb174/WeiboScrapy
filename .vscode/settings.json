@@ -1,0 +1,11 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false
+  },
+  "editor.formatOnSave": true,
+  "python.formatting.autopep8Args": [
+    "--ignore",
+    "E402"
+  ],
+  "python.pythonPath": "e:\\Code\\weibo-spider\\public-opinion-monitoring-and-visualization\\WeiboScrapy\\venv\\Scripts\\python.exe"
+}
